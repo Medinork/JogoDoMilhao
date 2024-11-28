@@ -32,11 +32,13 @@ CREATE TABLE questions (
     FOREIGN KEY (category_id) REFERENCES categories(id)
 );
 
+
 2 roda back:
 
 npm i
 
 npx nodemon server.js
+
 
 3 rodar front:
 
@@ -48,6 +50,7 @@ npm run dev
 !!!VERSÃO ZIPADA!!!
 
 funcional mas não possui DBmySQL
+
 
 para rodar use:
 
