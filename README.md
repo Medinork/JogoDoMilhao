@@ -30,7 +30,9 @@ npm run dev
 
 
 !!!VERSÃO ZIPADA!!!
+
 funcional mas não possui DBmySQL
+
 para rodar use:
 
 npm i
