@@ -27,3 +27,12 @@ npx nodemon server.js
 3 rodar front
 npm i
 npm run dev
+
+
+!!!VERSÃO ZIPADA!!!
+
+para rodar use:
+
+npm i
+npm run dev
+
