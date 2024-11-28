@@ -33,14 +33,28 @@ CREATE TABLE questions (
 );
 
 
-2 roda back:
+2 adicionar os dados ao banco de dados
+
+rode o comando
+
+cd backend/config
+
+node populateDatabase.js
+
+
+
+3 roda back:
+
+cd backend
 
 npm i
 
 npx nodemon server.js
 
 
-3 rodar front:
+4 rodar front:
+
+cd quiz
 
 npm i
 
