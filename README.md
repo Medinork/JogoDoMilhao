@@ -2,6 +2,7 @@
 Criação de um jogo de perguntas e respostas que concede uma pontuação final, desenvolvido em React e node
 
 1 criar banco
+
 CREATE DATABASE jogo_milhao;
 use jogo_milhao;
 CREATE TABLE categories (
